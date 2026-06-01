@@ -1,0 +1,9 @@
+*-backups/
+*.lck
+fp-info-cache
+_autosave-*
+*.000
+*.bak
+UccMicroDuino/.history/
+.DS_Store
+UccMicroDuino/.history/
